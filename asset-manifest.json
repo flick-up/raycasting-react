@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/raycasting-react/static/css/main.36cf6f2c.chunk.css",
+    "main.js": "/raycasting-react/static/js/main.6f21f74f.chunk.js",
+    "main.js.map": "/raycasting-react/static/js/main.6f21f74f.chunk.js.map",
+    "runtime-main.js": "/raycasting-react/static/js/runtime-main.2470a5c1.js",
+    "runtime-main.js.map": "/raycasting-react/static/js/runtime-main.2470a5c1.js.map",
+    "static/js/2.e7a4d1e6.chunk.js": "/raycasting-react/static/js/2.e7a4d1e6.chunk.js",
+    "static/js/2.e7a4d1e6.chunk.js.map": "/raycasting-react/static/js/2.e7a4d1e6.chunk.js.map",
+    "index.html": "/raycasting-react/index.html",
+    "precache-manifest.4df1487b743272cee4aeaa50278ded28.js": "/raycasting-react/precache-manifest.4df1487b743272cee4aeaa50278ded28.js",
+    "service-worker.js": "/raycasting-react/service-worker.js",
+    "static/css/main.36cf6f2c.chunk.css.map": "/raycasting-react/static/css/main.36cf6f2c.chunk.css.map",
+    "static/js/2.e7a4d1e6.chunk.js.LICENSE.txt": "/raycasting-react/static/js/2.e7a4d1e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2470a5c1.js",
+    "static/js/2.e7a4d1e6.chunk.js",
+    "static/css/main.36cf6f2c.chunk.css",
+    "static/js/main.6f21f74f.chunk.js"
+  ]
+}
